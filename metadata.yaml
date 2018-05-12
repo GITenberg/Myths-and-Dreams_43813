@@ -1,0 +1,31 @@
+_repo: Myths-and-Dreams_43813
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43813-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clodd, Edward
+    aliases:
+    - Clodd, Edw. (Edward)
+    - Clodd, E.
+    birthdate: 1840
+    deathdate: 1930
+    gutenberg_agent_id: '40063'
+    url: http://www.gutenberg.org/2009/agents/40063
+description: ''
+gutenberg_issued: '2013-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Mythology'
+- !lcsh 'Dreams'
+- !lcsh 'Folklore'
+title: Myths and Dreams
+url: http://www.gutenberg.org/ebooks/43813
